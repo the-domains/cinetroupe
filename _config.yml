@@ -1,0 +1,28 @@
+name: CineTroupe
+favicon: null
+layout_spectrum: 0.5459286726545542
+typography_spectrum: 0.5022250509355217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.08167746965773404
+  lightness: 0.4052934874780476
+  saturation: 0.8631218576338142
+  rhythmicContrast: 0.7842146472539753
+purpose: []
