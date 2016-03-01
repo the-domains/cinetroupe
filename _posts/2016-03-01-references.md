@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T22:20:56.545Z'
-dateModified: '2016-03-01T22:20:55.993Z'
+datePublished: '2016-03-01T22:40:11.180Z'
+dateModified: '2016-03-01T22:38:55.701Z'
 title: REFERENCES
 author: []
+sourcePath: _posts/2016-03-01-references.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-01-references.md
-published: true
 url: references/index.html
 _type: Article
 
